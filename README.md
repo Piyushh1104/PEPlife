@@ -12,6 +12,7 @@ Mathur, D., Prakash, S., Anand, P., Kaur, H., Agrawal, P., Mehta, A., Kumar, R.,
 **PEPlife: A Repository of the Half-life of Peptides.**  
 Scientific Reports, 6, 36617.  
 https://doi.org/10.1038/srep36617
+https://doi.org/10.5281/zenodo.20067665
 
 ---
 
